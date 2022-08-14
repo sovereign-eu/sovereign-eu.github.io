@@ -10,15 +10,15 @@ p {
 }
 
 div.center {
-  position: relative;
-  top: 20%;
+  position: fixed;
+  top: 25%;
   width: 100%;
   text-align: center;
 }
 
 div.bottom {
-  position: relative;
-  top: 30%;
+  position: fixed;
+  bottom: 10%;
   width: 100%;
   text-align: center;
 }
