@@ -9,6 +9,13 @@ p {
   font-family: 'Comfortaa', cursive;
 }
 
+p.Montserrat {
+  font-size: 75px;
+  line-height: 80px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
 div.center {
   position: fixed;
   top: 25%;
