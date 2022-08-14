@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+p {
+	font-size: 75px;
+	line-height: 80px;
+	color: white;
+	font-family: 'Comfortaa', cursive;
+}
+
+.center {
+  position: relative;
+  top: 20%;
+  width: 100%;
+  text-align: center;
+}
